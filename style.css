@@ -1,3 +1,12 @@
 body {
     background-color: #d3d3d3;
 }
+
+button {
+    background-color: purple;
+    color:white;
+    font-size: 32px;
+    border:none;
+    border-radius: 6px;
+    padding:5px 15px;
+}
